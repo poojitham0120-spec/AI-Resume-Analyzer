@@ -33,7 +33,7 @@ A simple and interactive **AI Resume Analyzer & ATS Checker** built using **Pyth
 AI-Resume-Analyzer/
 │── app.py
 │── README.md
-│── screenshots/
+│── screenshot/
 │     └── preview.png
 ```
 

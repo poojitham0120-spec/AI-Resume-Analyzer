@@ -76,7 +76,7 @@ http://localhost:8501
 
 ## 📸 Application Screenshot
 
-![AI Resume Analyzer](screenshots/preview.png)
+![AI Resume Analyzer](screenshot/preview.png)
 
 ---
 
